@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Different Color</string>
+    <string name="level">LEVEL</string>
+    <string name="time">TIME</string>
+</resources>
